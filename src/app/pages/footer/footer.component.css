@@ -1,7 +1,6 @@
 footer{
    background-image:  linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../../../assets/images/e.png);
    width: 100%;
-   min-height: 400px;
 }
 h5{
     color: #E7A212;
