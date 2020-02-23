@@ -11,8 +11,13 @@ span .rounded-icon{
 }
 .contact{
   background-image: url(../../../assets/images/e6.jpg);
+  background-size: cover;
 }
-
+#msg{
+  background: url(../../../assets/images/e6.jpg);
+  background-size: cover;
+  
+}
 .form-control{
   width: 100%;
   overflow: hidden;
@@ -39,7 +44,7 @@ button{
   transition-duration: 0.4s;
   cursor: pointer;
 }
-.button:hover {
+button:hover {
   background-color: #62A6D6;
   color: white;
 }
