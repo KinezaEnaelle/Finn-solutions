@@ -1,0 +1,16 @@
+<svg width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-gauge">
+    <g transform="translate(50,50)">
+      <g ng-attr-transform="scale({{config.scale}})" transform="scale(0.8)">
+        <g transform="translate(-50,-50)">
+          <!--path(ng-attr-fill=config.c1,d="M15.36 70A40 40 0 0 1 70 15.34L50 50Z",ng-attr-stroke=config.c1,stroke-width="2")-->
+          <!--path(ng-attr-fill=config.c2,d="M70 15.34A40 40 0 0 1 90 50L50 50Z",ng-attr-stroke=config.c2,stroke-width="2")-->
+          <path ng-attr-fill="{{config.c1}}" ng-attr-d="{{config.d1}}" ng-attr-stroke="{{config.c1}}" stroke-width="2" fill="#e90c59" d="M15.35898384862245 70 A40 40 0 0 1 70 15.358983848622458 L58.75 34.84455543377233 A17.5 17.5 0 0 0 34.84455543377232 58.75 Z" stroke="#e90c59"></path>
+          <path ng-attr-fill="{{config.c2}}" ng-attr-d="{{config.d2}}" ng-attr-stroke="{{config.c2}}" stroke-width="2" fill="#fe718d" d="M84.64101615137756 70 A40 40 0 0 0 70 15.358983848622458 L58.75 34.84455543377233 A17.5 17.5 0 0 1 65.15544456622767 58.75 Z" stroke="#fe718d"></path>
+          <circle cx="50" cy="50" ng-attr-r="{{config.r}}" ng-attr-fill="{{config.c3}}" r="10" fill="#46dff0"></circle>
+          <line x1="50" y1="50" x2="15" y2="50" stroke-linecap="round" ng-attr-stroke="{{config.c3}}" ng-attr-stroke-width="{{config.width}}" stroke="#46dff0" stroke-width="5" transform="rotate(140 50 50)">
+            <animateTransform attributeName="transform" type="rotate" calcMode="linear" values="40 50 50; 50 50 50; 40 50 50; 140 50 50; 130 50 50; 140 50 50; 40 50 50" keyTimes="0;0.10;0.25;0.5;0.60;0.75;1" dur="1s" begin="0s" repeatCount="indefinite"></animateTransform>
+          </line>
+        </g>
+      </g>
+    </g>
+  </svg>

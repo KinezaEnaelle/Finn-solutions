@@ -1,0 +1,37 @@
+<svg class="lds-pies" width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><g transform="translate(50 50)"><g transform="scale(0.958333 0.958333)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(0 0 0)" stroke="none" fill="#e90c59"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.9166666666666666s"></animateTransform>
+</g><g transform="scale(1 1)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(30 0 0)" stroke="none" fill="#fe718d"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.8333333333333334s"></animateTransform>
+</g><g transform="scale(0.541667 0.541667)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(60 0 0)" stroke="none" fill="#ffe6f5"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.75s"></animateTransform>
+</g><g transform="scale(0.583333 0.583333)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(90 0 0)" stroke="none" fill="#c2dfd7"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.6666666666666666s"></animateTransform>
+</g><g transform="scale(0.625 0.625)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(120 0 0)" stroke="none" fill="#e90c59"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.5833333333333334s"></animateTransform>
+</g><g transform="scale(0.666667 0.666667)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(150 0 0)" stroke="none" fill="#fe718d"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.5s"></animateTransform>
+</g><g transform="scale(0.708333 0.708333)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(180 0 0)" stroke="none" fill="#ffe6f5"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.4166666666666667s"></animateTransform>
+</g><g transform="scale(0.75 0.75)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(210 0 0)" stroke="none" fill="#c2dfd7"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.3333333333333333s"></animateTransform>
+</g><g transform="scale(0.791667 0.791667)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(240 0 0)" stroke="none" fill="#e90c59"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.25s"></animateTransform>
+</g><g transform="scale(0.833333 0.833333)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(270 0 0)" stroke="none" fill="#fe718d"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.16666666666666666s"></animateTransform>
+</g><g transform="scale(0.875 0.875)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(300 0 0)" stroke="none" fill="#ffe6f5"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="-0.08333333333333333s"></animateTransform>
+</g><g transform="scale(0.916667 0.916667)">
+<path d="M0 0L0 -40A40 40 0 0 1 19.999999999999996 -34.64101615137755" transform="rotate(330 0 0)" stroke="none" fill="#c2dfd7"></path>
+<animateTransform attributeName="transform" type="scale" values="1;0.5" keyTimes="0;1" dur="1s" repeatCount="indefinite" begin="0s"></animateTransform>
+</g></g></svg>

@@ -1,0 +1,13 @@
+.bg-image {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.73)), url('../../../assets/images/career-01.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 80vh;
+}
+
+span{
+  color: #1a5dc2;
+
+}

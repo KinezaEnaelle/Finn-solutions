@@ -1,0 +1,45 @@
+
+
+.form-control{
+  border: 0px;
+  border-radius: 2px;
+}
+span .rounded-icon{
+  border-radius: 50%;
+  background-color: #151515 !important;
+  padding: 7px 7px;
+}
+.contact{
+  background-image: url(../../../assets/images/e6.jpg);
+}
+
+.form-control{
+  width: 100%;
+  overflow: hidden;
+  margin: 8px 0;
+  padding: 8px 0;
+  border-bottom: 1px solid #E7A212;
+  
+}
+.transparent-input {
+  background-color: rgba(0, 0, 0, 0);
+  border:none;
+  border-bottom: 2px solid #E7A212;
+}
+button{
+  background-color: #E7A212;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px 4px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #62A6D6;
+  color: white;
+}

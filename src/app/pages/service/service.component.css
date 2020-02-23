@@ -1,0 +1,11 @@
+a {
+  color: dodgerblue !important;
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: dodgerblue !important;
+}
+
+.card {
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .75);
+}

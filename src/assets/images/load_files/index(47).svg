@@ -1,0 +1,30 @@
+<svg width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-flat-radio" style="background: none;">
+    <defs>
+      <mask ng-attr-id="{{config.mid}}" id="lds-flat-radio-dac78608e76d6">
+        <circle cx="50" cy="50" r="45" fill="#fff"></circle>
+      </mask>
+    </defs>
+    <circle cx="50" cy="50" r="45" ng-attr-fill="{{config.base}}" fill="#32a0da"></circle>
+    <g ng-attr-mask="url(#{{config.mid}})" mask="url(#lds-flat-radio-dac78608e76d6)">
+      <g transform="translate(7 1) scale(0.9)">
+        <polygon points="37.6,66.1 23.4,80.3 47.4,104.3 75.9,104.3" ng-attr-fill="{{config.dark}}" transform="translate(-5 -5) scale(1.1)" fill="rgb(40, 129, 176)">
+          <animate attributeName="opacity" calcMode="linear" values="0;1;1" keyTimes="0;0.2;1" dur="1" begin="0s" repeatCount="indefinite"></animate>
+        </polygon>
+        <polygon points="63.7,35.8 30,31.5 49.9,51.4 102.8,104.3 104,104.3 104,76.2" ng-attr-fill="{{config.dark}}" transform="translate(-5 -5) scale(1.1)" fill="rgb(40, 129, 176)">
+          <animate attributeName="opacity" calcMode="linear" values="0;1;1" keyTimes="0;0.2;1" dur="1" begin="0.2s" repeatCount="indefinite"></animate>
+        </polygon>
+        <polygon points="51,51.3 49.9,51.4 30,51.8 82.6,104.3 102.8,104.3 104,104.3" ng-attr-fill="{{config.dark}}" transform="translate(-5 -5) scale(1.1)" fill="rgb(40, 129, 176)">
+          <animate attributeName="opacity" calcMode="linear" values="0;1;1" keyTimes="0;0.2;1" dur="1" begin="0.1s" repeatCount="indefinite"></animate>
+        </polygon>
+        <circle cx="28" cy="75" r="11" ng-attr-fill="{{config.c1}}" fill="#f05125">
+          <animate attributeName="fill" calcMode="linear" values="#32a0da;#f05125;#f05125" keyTimes="0;0.2;1" dur="1" begin="0s" repeatCount="indefinite"></animate>
+        </circle>
+        <path d="M28 47A28 28 0 0 1 56 75" fill="none" ng-attr-stroke="{{config.c2}}" stroke-width="10" stroke="#fdb813">
+          <animate attributeName="stroke" calcMode="linear" values="#32a0da;#fdb813;#fdb813" keyTimes="0;0.2;1" dur="1" begin="0.1s" repeatCount="indefinite"></animate>
+        </path>
+        <path d="M28 25A50 50 0 0 1 78 75" fill="none" ng-attr-stroke="{{config.c3}}" stroke-width="10" stroke="#7fbb42">
+          <animate attributeName="stroke" calcMode="linear" values="#32a0da;#7fbb42;#7fbb42" keyTimes="0;0.2;1" dur="1" begin="0.2s" repeatCount="indefinite"></animate>
+        </path>
+      </g>
+    </g>
+  </svg>

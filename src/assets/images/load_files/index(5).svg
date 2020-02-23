@@ -1,0 +1,16 @@
+<svg width="80px"  height="80px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-basketball">
+    <circle cx="50" cy="50" ng-attr-r="{{config.radius}}" fill="#ea4c89" stroke="#c32361" stroke-width="4" r="28"></circle>
+    <path d="M50 22L50 78" stroke="#c32361" stroke-width="4"></path>
+    <path d="M30.20101012677667 30.201010126776673 A28 28 0 0 1 30.20101012677667 69.79898987322332" fill="none" stroke="#c32361" stroke-width="4"></path>
+    <path d="M69.79898987322333 30.201010126776673 A28 28 0 0 0 69.79898987322333 69.79898987322332" fill="none" stroke="#c32361" stroke-width="4"></path>
+    <g transform="translate(0 50)">
+      <g>
+        <path d="M 22 0 A 28 22.4586 0 0 1 78 0" fill="none" stroke="#c32361" stroke-width="4">
+          <animate attributeName="d" calcMode="spline" values="M22 0A28 28 0 0 1 78 0;M22 0A28 0 0 0 1 78 0;M22 0A28 0 0 0 0 78 0;M22 0A28 28 0 0 0 78 0" keyTimes="0;0.499999;0.5;1" dur="0.9" keySplines="0.1 0 1 0.9;0.5 0.5 0.5 0.5;0 0.1 0.9 1" begin="0s" repeatCount="indefinite"></animate>
+        </path>
+        <path d="M 22 0 A 28 9.17549 0 0 0 78 0" fill="none" stroke="#c32361" stroke-width="4">
+          <animate attributeName="d" calcMode="spline" values="M22 0A28 28 0 0 1 78 0;M22 0A28 0 0 0 1 78 0;M22 0A28 0 0 0 0 78 0;M22 0A28 28 0 0 0 78 0" keyTimes="0;0.499999;0.5;1" dur="0.9" keySplines="0.1 0 1 0.9;0.5 0.5 0.5 0.5;0 0.1 0.9 1" begin="-0.45s" repeatCount="indefinite"></animate>
+        </path>
+      </g>
+    </g>
+  </svg>
